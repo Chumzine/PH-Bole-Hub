@@ -1,0 +1,114 @@
+/*The head style starts here*/
+
+
+
+/*The body style starts here*/
+body{
+    background-color: black;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+/*The body style ends here*/
+
+/*Header starts here*/
+header {
+    text-align: left;
+    color:yellow;
+    height: 10rem;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+
+.submit__feedback{
+    width: 16rem;
+    height: 3rem;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+ul li a{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a:visited, a:link, a:active{
+    color: white;
+}
+
+/* a:visited{
+    color: yellow;
+    
+} */
+
+.bole__title{
+    font-size: 3rem;
+    color: yellow;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: none;
+}
+
+nav{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+nav span a{
+    color: black;
+    border: yellow;
+    background-color: orange;
+    padding: .8rem .8rem;
+    text-decoration: none;
+}
+
+nav span a:visited{
+    color: black;
+    border: yellow;
+    background-color: orange;
+    padding: .8rem .8rem;
+    text-decoration: none;
+}
+
+.submit__feedback:hover{
+    color: purple;
+    background-color: red;
+    border: 1px solid purple;
+
+}
+
+footer h5{
+    text-decoration: none !important;
+}
+
+/* Feedback Form  */
+.feedback__form{
+    width: 16rem;
+    height: 2rem;
+}
+
+.banner__logo{
+    width: 20rem;
+    height: 20rem;
+}
+
